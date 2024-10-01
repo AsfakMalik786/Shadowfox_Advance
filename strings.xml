@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="logintxt">Are You Have An Account? <font color="#FD511E">SignIn</font></string>
+</resources>
